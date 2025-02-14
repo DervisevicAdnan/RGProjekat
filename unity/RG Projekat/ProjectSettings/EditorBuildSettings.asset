@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Startna.unity
+    guid: 0d11203db15c9dbafb71d1a6cd113368
+  - enabled: 1
+    path: Assets/Scenes/Tutorijal.unity
+    guid: 7f58522b62e9b98f8a83a72f6b67d9b1
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Kviz.unity
+    guid: f57d81c4d3c6cb25ba0d0f955b710907
+  m_configObjects: {}
